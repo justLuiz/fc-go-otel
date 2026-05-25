@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Build output
+dist/
+bin/
+
+# SQLite databases
+*.db
+
+# Environment files with real secrets (keep .env for dev defaults)
+# .env.local
+# .env.production
